@@ -12,7 +12,7 @@ License: GPL-2
 
 
 // Set to your email:
-define('SEND_EMAIL_ALERTS_TO','youremail@example.com');
+define('SEND_EMAIL_ALERTS_TO','logs@internetrix.com.au');
 
 
 ############################################ START CLASS
